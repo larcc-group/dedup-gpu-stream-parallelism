@@ -1,0 +1,6 @@
+*.o
+dedup_pt
+*.data
+*.dedup
+
+*.tmp
