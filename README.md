@@ -7,19 +7,17 @@ Rockenbach, Dinei A; Stein, Charles M; Griebler, Dalvan; Mencagli, Gabriele; Tor
 **Stream Processing on Multi-Cores with GPUs: Parallel Programming Models` Challenges**. *IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)*, IEEE, Rio de Janeiro, Brazil, Forthcoming.
 
 ```bibtex
-@inproceedings{larcc:stream_parallelism_lzss_gpu:PDP:19,
-    author={Charles Michael Stein and Dalvan Griebler and Marco Danelutto and Luiz Gustavo Fernandes},
-    title={{Stream Parallelism on the LZSS Data Compression Application for Multi-Cores with GPUs}},
-    booktitle={27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)},
-    series={},
-    pages={},
-    publisher={IEEE},
-    volume={},
-    address={Pavia, Italy},
-    month={February},
-    year={2019},
-    doi={},
-    url={},
+@inproceedings{larcc:stream_processing_gpu_challenges:IPDPSW:19,
+    title = {Stream Processing on Multi-Cores with GPUs: Parallel Programming Models' Challenges},
+    author = {Dinei A Rockenbach and Charles M Stein and Dalvan Griebler and Gabriele Mencagli and Massimo Torquati and Marco Danelutto and Luiz Gustavo Fernandes},
+    year = {2019},
+    date = {2019-05-01},
+    booktitle = {IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
+    publisher = {IEEE},
+    address = {Rio de Janeiro, Brazil},
+    keywords = {},
+    pubstate = {forthcoming},
+    tppubtype = {inproceedings}
 }
 
 ```
