@@ -7,19 +7,20 @@ You can use this code as long as you cite our work in case you publish something
 **Stream Processing on Multi-Cores with GPUs: Parallel Programming Models` Challenges**. *IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)*, IEEE, Rio de Janeiro, Brazil, 2019.
 
 ```bibtex
-@inproceedings{larcc:stream_processing_gpu_challenges:IPDPSW:19,
-    title = {Stream Processing on Multi-Cores with GPUs: Parallel Programming Models' Challenges},
-    author = {Dinei A Rockenbach and Charles M Stein and Dalvan Griebler and Gabriele Mencagli and Massimo Torquati and Marco Danelutto and Luiz Gustavo Fernandes},
-    year = {2019},
-    date = {2019-05-01},
-    booktitle = {IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
-    publisher = {IEEE},
-    address = {Rio de Janeiro, Brazil},
-    keywords = {},
-    pubstate = {forthcoming},
-    tppubtype = {inproceedings}
+@inproceedings{ROCKENBACH:stream-multigpus:IPDPSW:19,
+	author={Dinei A. Rockenbach and Charles Michael Stein and Dalvan Griebler and Gabriele Mencagli and Massimo Torquati and Marco Danelutto and Luiz Gustavo Fernandes},
+	title={{Stream Processing on Multi-cores with GPUs: Parallel Programming Models' Challenges}},
+	booktitle={International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
+	series={IPDPSW'19},	
+	pages={834-841},
+	publisher={IEEE},	
+	address={Rio de Janeiro, Brazil},
+	month={May},
+	year={2019},
+	doi={10.1109/IPDPSW.2019.00137},
+	url={https://doi.org/10.1109/IPDPSW.2019.00137},
+	abstract={The stream processing paradigm is used in several scientific and enterprise applications in order to continuously compute results out of data items coming from data sources such as sensors. The full exploitation of the potential parallelism offered by current heterogeneous multi-cores equipped with one or more GPUs is still a challenge in the context of stream processing applications. In this work, our main goal is to present the parallel programming challenges that the programmer has to face when exploiting CPUs and GPUs' parallelism at the same time using traditional programming models. We highlight the parallelization methodology in two use-cases (the Mandelbrot Streaming benchmark and the PARSEC's Dedup application) to demonstrate the issues and benefits of using heterogeneous parallel hardware. The experiments conducted demonstrate how a high-level parallel programming model targeting stream processing like the one offered by SPar can be used to reduce the programming effort still offering a good level of performance if compared with state-of-the-art programming models.},
 }
-
 ```
 
 
