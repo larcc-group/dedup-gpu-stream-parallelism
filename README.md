@@ -3,8 +3,8 @@ This repository has the parallel and sequential implementations for PARSEC's Ded
 ## Citing Dedup on GPU
 You can use this code as long as you cite our work in case you publish something related to it.
 
-Rockenbach, Dinei A; Stein, Charles M; Griebler, Dalvan; Mencagli, Gabriele; Torquati, Massimo; Danelutto, Marco; Fernandes, Luiz Gustavo.
-**Stream Processing on Multi-Cores with GPUs: Parallel Programming Models` Challenges**. *IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)*, IEEE, Rio de Janeiro, Brazil, Forthcoming.
+[DOI](https://doi.org/10.1109/IPDPSW.2019.00137) Rockenbach, Dinei A; Stein, Charles M; Griebler, Dalvan; Mencagli, Gabriele; Torquati, Massimo; Danelutto, Marco; Fernandes, Luiz Gustavo.
+**Stream Processing on Multi-Cores with GPUs: Parallel Programming Models` Challenges**. *IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)*, IEEE, Rio de Janeiro, Brazil, 2019.
 
 ```bibtex
 @inproceedings{larcc:stream_processing_gpu_challenges:IPDPSW:19,
